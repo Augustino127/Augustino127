@@ -12,39 +12,49 @@
   <a href="https://x.com/AComlangan70558"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X (Twitter)"/></a>
   <a href="mailto:augustino.comlangan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
+
 ---
+
 ## 🚀 **About Me**
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 I'm a **Software Engineer** based in **Cotonou, Benin**, passionate about creating immersive digital experiences. My journey spans across game development, full-stack applications, and 3D design.
+
 ```yaml
 current_role: "Software Engineer at Vallis Technologies"
 location: "Cotonou, Benin"
- passions: ["Game Development", "3D Design", "Creative Coding", "Interactive Experiences"]
+passions: ["Game Development", "3D Design", "Creative Coding", "Interactive Experiences"]
 philosophy: "Every idea deserves flawless execution"
 motto: "Le mouvement est ma nature et l'infini caractérise mon potentiel"
-         (Motion is my nature, infinity characterizes my potential)
+# (Motion is my nature, infinity characterizes my potential)
 ```
+
 ### 🎮 **What Drives Me**
 - Creating **games** that tell compelling stories
 - Building **web/mobile apps** with intuitive user experiences
 - Crafting **3D assets** that bring ideas to life
 - Solving complex problems with **elegant code**
+
 ---
+
 ## 💻 **Technical Arsenal**
+
 ### **Core Expertise**
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
+
 ### **Frontend**
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
+
 ### **Backend & Database**
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -52,31 +62,68 @@ motto: "Le mouvement est ma nature et l'infini caractérise mon potentiel"
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
+
 ### **Design & 3D Tools**
 <p align="center">
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/MakeHuman-5C8DB8?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" />
 </p>
+<p align="center">
+  <sub>Also exploring: <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" /></sub>
+</p>
+
 ---
+
 ## 🎮 **Featured Projects**
+
 <details>
-<summary><b>💼 Web & Mobile Applications</b></summary>
+<summary><b>📱 Mobile Applications</b></summary>
 <br>
+
 | Project | Description | Technologies | Links |
 |---------|-------------|--------------|-------|
-| **[Project Name 4]** | Full-stack web app | React, Node.js, MongoDB | [🔗 Live Demo] |
-| **[Project Name 5]** | Mobile app for [purpose] | React Native, Firebase | [📱 App Store] |
+| **Eranou** | E-commerce platform for Benin — electronics, clothing, food & more with real-time tracking, mobile money & secure payments | Flutter, Dart | <a href="https://play.google.com/store/apps/details?id=tech.vallis.eranou"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white" /></a> <a href="https://apps.apple.com/fr/app/eranou/id6670616490"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white" /></a> |
+| **Eranou Marchand** | Merchant dashboard for the Eranou marketplace — product listings, order management, sales analytics & real-time notifications | Flutter, Dart | <a href="https://play.google.com/store/apps/details?id=net.eranou.marchand"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white" /></a> <a href="https://apps.apple.com/fr/app/eranou-marchand/id6670213839"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white" /></a> |
+
 </details>
+
+<details>
+<summary><b>🌐 Web Experiments & Tools</b></summary>
+<br>
+
+| Project | Description | Technologies | Links |
+|---------|-------------|--------------|-------|
+| **Oblivion Tesseract** | Interactive 3D universe explorer — 4D hypercube, fractals, black holes, galaxies & golden spiral visualizations | Three.js, JavaScript | [🔗 Live](https://augustino127.github.io/oblivion-tesseract/) · [📂 Repo](https://github.com/Augustino127/oblivion-tesseract) |
+| **ASCII Art Generator** | Converts images & text into ASCII art with adjustable palettes, contrast, brightness, edge detection and export | JavaScript, Canvas API | [🔗 Live](https://augustino127.github.io/customised-ascii-art-generator/) · [📂 Repo](https://github.com/Augustino127/customised-ascii-art-generator) |
+
+</details>
+
+<details>
+<summary><b>🎮 Game Development</b></summary>
+<br>
+
+| Project | Description | Technologies | Links |
+|---------|-------------|--------------|-------|
+| **[Game Name]** | [Game description] | Unity, C# | [🎮 Demo](#) |
+
+</details>
+
 <details>
 <summary><b>🧊 3D Design Portfolio</b></summary>
 <br>
+
 - **Character Modeling** - Original game characters
 - **Environment Design** - Immersive game worlds
 - **Animation Projects** - Short animated sequences
 - **Product Visualization** - 3D product renders
+
 </details>
+
 ---
+
 ## 🎯 **Current Focus**
 ```javascript
 const augustino = {
@@ -103,12 +150,16 @@ const augustino = {
   ]
 };
 ```
+
 ---
+
 ## 🌟 **Achievements & Recognition**
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Augustino127&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
 </p>
+
 ---
+
 ## 📫 **Let's Connect & Collaborate**
 <p align="center">
   <a href="https://www.linkedin.com/in/augustino-comlangan">
@@ -124,7 +175,9 @@ const augustino = {
     <img src="https://img.shields.io/badge/Discord-augustino127-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord augustino127" />
   </a>
 </p>
+
 ---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </p>
