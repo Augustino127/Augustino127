@@ -101,15 +101,6 @@ motto: "Le mouvement est ma nature et l'infini caractérise mon potentiel"
 
 </details>
 
-<details>
-<summary><b>🎮 Game Development</b></summary>
-<br>
-
-| Project | Description | Technologies | Links |
-|---------|-------------|--------------|-------|
-| **[Game Name]** | [Game description] | Unity, C# | [🎮 Demo](#) |
-
-</details>
 
 ---
 
