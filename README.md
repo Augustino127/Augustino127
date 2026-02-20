@@ -111,17 +111,6 @@ motto: "Le mouvement est ma nature et l'infini caractérise mon potentiel"
 
 </details>
 
-<details>
-<summary><b>🧊 3D Design Portfolio</b></summary>
-<br>
-
-- **Character Modeling** - Original game characters
-- **Environment Design** - Immersive game worlds
-- **Animation Projects** - Short animated sequences
-- **Product Visualization** - 3D product renders
-
-</details>
-
 ---
 
 ## 🎯 **Current Focus**
