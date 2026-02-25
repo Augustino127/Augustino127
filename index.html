@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Augustino Comlangan — Software Engineer</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Fira+Code:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav id="navbar">
+    <div class="nav-inner">
+      <a class="nav-logo" href="#hero">AC</a>
+      <ul class="nav-links">
+        <li><a href="#about">About</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#focus">Focus</a></li>
+        <li><a href="#contact" class="nav-cta">Contact</a></li>
+      </ul>
+      <button class="hamburger" id="hamburger" aria-label="Toggle menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <section id="hero">
+    <div class="hero-bg"></div>
+    <canvas id="particles-canvas"></canvas>
+    <div class="hero-content">
+      <div class="hero-avatar">
+        <img src="https://github.com/Augustino127/Augustino127/blob/main/assets/profile-pic.jpg?raw=true"
+             alt="Augustino Comlangan"
+             onerror="this.style.display='none'; document.getElementById('avatar-fallback').style.display='flex';" />
+        <div id="avatar-fallback" class="avatar-fallback">AC</div>
+      </div>
+      <p class="hero-greeting">Hello, I'm</p>
+      <h1 class="hero-name">Augustino <span class="accent">Comlangan</span></h1>
+      <div class="hero-roles">
+        <span class="role-tag">Software Engineer</span>
+        <span class="role-tag">Full-Stack Developer</span>
+        <span class="role-tag">Game Developer</span>
+        <span class="role-tag">3D Designer</span>
+      </div>
+      <p class="hero-motto">"Le mouvement est ma nature et l'infini caractérise mon potentiel"</p>
+      <div class="hero-actions">
+        <a href="#projects" class="btn btn-primary">View Projects</a>
+        <a href="#contact" class="btn btn-outline">Get in Touch</a>
+      </div>
+    </div>
+    <div class="hero-scroll">
+      <span></span>
+    </div>
+  </section>
+
+  <!-- ABOUT -->
+  <section id="about">
+    <div class="container">
+      <h2 class="section-title">About <span class="accent">Me</span></h2>
+      <div class="about-grid">
+        <div class="about-text">
+          <p>
+            I'm a <strong>Software Engineer</strong> based in <strong>Cotonou, Benin</strong>,
+            passionate about creating immersive digital experiences. My journey spans across
+            game development, full-stack applications, and 3D design.
+          </p>
+          <p>
+            Currently working as <strong>Software Engineer at Vallis Technologies</strong>,
+            I bring ideas to life through elegant code and creative execution.
+          </p>
+          <p class="philosophy-quote">"Every idea deserves flawless execution"</p>
+          <div class="about-badges">
+            <div class="badge"><span class="badge-dot"></span>Open to Collaborate</div>
+            <div class="badge"><span class="badge-dot"></span>Cotonou, Benin</div>
+          </div>
+        </div>
+        <div class="about-card">
+          <div class="code-block">
+            <div class="code-header">
+              <span class="dot red"></span>
+              <span class="dot yellow"></span>
+              <span class="dot green"></span>
+              <span class="code-filename">profile.yaml</span>
+            </div>
+            <pre><code><span class="key">current_role</span>: <span class="str">"Software Engineer"</span>
+<span class="key">company</span>: <span class="str">"Vallis Technologies"</span>
+<span class="key">location</span>: <span class="str">"Cotonou, Benin"</span>
+<span class="key">passions</span>:
+  - <span class="str">"Game Development"</span>
+  - <span class="str">"3D Design"</span>
+  - <span class="str">"Creative Coding"</span>
+  - <span class="str">"Interactive Experiences"</span>
+<span class="key">philosophy</span>:
+  <span class="str">"Every idea deserves
+   flawless execution"</span></code></pre>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- SKILLS -->
+  <section id="skills">
+    <div class="container">
+      <h2 class="section-title">Technical <span class="accent">Arsenal</span></h2>
+
+      <div class="skills-grid">
+        <div class="skill-category">
+          <h3><span class="cat-icon">⚡</span> Core Expertise</h3>
+          <div class="skill-tags">
+            <span class="skill-tag tier-1">Unity</span>
+            <span class="skill-tag tier-1">C#</span>
+            <span class="skill-tag tier-1">JavaScript</span>
+            <span class="skill-tag tier-1">TypeScript</span>
+          </div>
+        </div>
+
+        <div class="skill-category">
+          <h3><span class="cat-icon">🎨</span> Frontend</h3>
+          <div class="skill-tags">
+            <span class="skill-tag tier-2">React</span>
+            <span class="skill-tag tier-2">React Native</span>
+            <span class="skill-tag tier-2">Expo</span>
+            <span class="skill-tag tier-2">Tailwind CSS</span>
+          </div>
+        </div>
+
+        <div class="skill-category">
+          <h3><span class="cat-icon">🛠</span> Backend &amp; Database</h3>
+          <div class="skill-tags">
+            <span class="skill-tag tier-3">Node.js</span>
+            <span class="skill-tag tier-3">Express.js</span>
+            <span class="skill-tag tier-3">MongoDB</span>
+            <span class="skill-tag tier-3">Firebase</span>
+          </div>
+        </div>
+
+        <div class="skill-category">
+          <h3><span class="cat-icon">🖌</span> Design &amp; 3D</h3>
+          <div class="skill-tags">
+            <span class="skill-tag tier-4">Blender</span>
+            <span class="skill-tag tier-4">MakeHuman</span>
+            <span class="skill-tag tier-4">Photoshop</span>
+            <span class="skill-tag tier-4">Illustrator</span>
+            <span class="skill-tag tier-4">Premiere Pro</span>
+            <span class="skill-tag tier-4">Figma</span>
+          </div>
+        </div>
+
+        <div class="skill-category">
+          <h3><span class="cat-icon">📱</span> Mobile</h3>
+          <div class="skill-tags">
+            <span class="skill-tag tier-5">Flutter</span>
+            <span class="skill-tag tier-5">Dart</span>
+            <span class="skill-tag tier-5">React Native</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- PROJECTS -->
+  <section id="projects">
+    <div class="container">
+      <h2 class="section-title">Featured <span class="accent">Projects</span></h2>
+      <div class="projects-grid">
+
+        <div class="project-card" data-category="mobile">
+          <div class="project-header">
+            <span class="project-icon">📱</span>
+            <div class="project-category">Mobile App</div>
+          </div>
+          <h3 class="project-title">Eranou</h3>
+          <p class="project-desc">E-commerce platform for Benin — electronics, clothing, food &amp; more with real-time tracking, mobile money &amp; secure payments.</p>
+          <div class="project-techs">
+            <span class="tech-tag">Flutter</span>
+            <span class="tech-tag">Dart</span>
+          </div>
+          <div class="project-links">
+            <a href="https://play.google.com/store/apps/details?id=tech.vallis.eranou" target="_blank" rel="noopener" class="project-link">
+              Google Play
+            </a>
+            <a href="https://apps.apple.com/fr/app/eranou/id6670616490" target="_blank" rel="noopener" class="project-link">
+              App Store
+            </a>
+          </div>
+        </div>
+
+        <div class="project-card" data-category="mobile">
+          <div class="project-header">
+            <span class="project-icon">🏪</span>
+            <div class="project-category">Mobile App</div>
+          </div>
+          <h3 class="project-title">Eranou Marchand</h3>
+          <p class="project-desc">Merchant dashboard for the Eranou marketplace — product listings, order management, sales analytics &amp; real-time notifications.</p>
+          <div class="project-techs">
+            <span class="tech-tag">Flutter</span>
+            <span class="tech-tag">Dart</span>
+          </div>
+          <div class="project-links">
+            <a href="https://play.google.com/store/apps/details?id=net.eranou.marchand" target="_blank" rel="noopener" class="project-link">
+              Google Play
+            </a>
+            <a href="https://apps.apple.com/fr/app/eranou-marchand/id6670213839" target="_blank" rel="noopener" class="project-link">
+              App Store
+            </a>
+          </div>
+        </div>
+
+        <div class="project-card" data-category="web">
+          <div class="project-header">
+            <span class="project-icon">🌌</span>
+            <div class="project-category">Web / 3D</div>
+          </div>
+          <h3 class="project-title">Oblivion Tesseract</h3>
+          <p class="project-desc">Interactive 3D universe explorer — 4D hypercube, fractals, black holes, galaxies &amp; golden spiral visualizations.</p>
+          <div class="project-techs">
+            <span class="tech-tag">Three.js</span>
+            <span class="tech-tag">JavaScript</span>
+          </div>
+          <div class="project-links">
+            <a href="https://augustino127.github.io/oblivion-tesseract/" target="_blank" rel="noopener" class="project-link primary">
+              Live Demo
+            </a>
+            <a href="https://github.com/Augustino127/oblivion-tesseract" target="_blank" rel="noopener" class="project-link">
+              GitHub
+            </a>
+          </div>
+        </div>
+
+        <div class="project-card" data-category="web">
+          <div class="project-header">
+            <span class="project-icon">🎭</span>
+            <div class="project-category">Web Tool</div>
+          </div>
+          <h3 class="project-title">ASCII Art Generator</h3>
+          <p class="project-desc">Converts images &amp; text into ASCII art with adjustable palettes, contrast, brightness, edge detection and export.</p>
+          <div class="project-techs">
+            <span class="tech-tag">JavaScript</span>
+            <span class="tech-tag">Canvas API</span>
+          </div>
+          <div class="project-links">
+            <a href="https://augustino127.github.io/customised-ascii-art-generator/" target="_blank" rel="noopener" class="project-link primary">
+              Live Demo
+            </a>
+            <a href="https://github.com/Augustino127/customised-ascii-art-generator" target="_blank" rel="noopener" class="project-link">
+              GitHub
+            </a>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- CURRENT FOCUS -->
+  <section id="focus">
+    <div class="container">
+      <h2 class="section-title">Current <span class="accent">Focus</span></h2>
+      <div class="focus-grid">
+        <div class="focus-card">
+          <div class="focus-icon">🎮</div>
+          <h3>Working On</h3>
+          <ul>
+            <li>Immersive game experience with Unity</li>
+            <li>Full-stack web app for local business</li>
+            <li>3D character series for portfolio</li>
+          </ul>
+        </div>
+        <div class="focus-card">
+          <div class="focus-icon">📚</div>
+          <h3>Learning</h3>
+          <ul>
+            <li>Advanced Unity Shader Graph</li>
+            <li>Three.js for web-based 3D</li>
+            <li>AI in Game Development</li>
+          </ul>
+        </div>
+        <div class="focus-card">
+          <div class="focus-icon">🤝</div>
+          <h3>Open to Collaborate</h3>
+          <ul>
+            <li>Open source game projects</li>
+            <li>Creative coding experiments</li>
+            <li>African game dev initiatives</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+  <section id="contact">
+    <div class="container">
+      <h2 class="section-title">Let's <span class="accent">Connect</span></h2>
+      <p class="contact-subtitle">Available for freelance projects, collaborations, and creative conversations.</p>
+      <div class="contact-links">
+        <a href="mailto:augustino.comlangan@gmail.com" class="contact-card">
+          <span class="contact-icon">✉</span>
+          <div>
+            <div class="contact-label">Email</div>
+            <div class="contact-value">augustino.comlangan@gmail.com</div>
+          </div>
+        </a>
+        <a href="https://www.linkedin.com/in/augustino-comlangan" target="_blank" rel="noopener" class="contact-card">
+          <span class="contact-icon">in</span>
+          <div>
+            <div class="contact-label">LinkedIn</div>
+            <div class="contact-value">augustino-comlangan</div>
+          </div>
+        </a>
+        <a href="https://x.com/AComlangan70558" target="_blank" rel="noopener" class="contact-card">
+          <span class="contact-icon">𝕏</span>
+          <div>
+            <div class="contact-label">X (Twitter)</div>
+            <div class="contact-value">@AComlangan70558</div>
+          </div>
+        </a>
+        <a href="#" class="contact-card">
+          <span class="contact-icon">💬</span>
+          <div>
+            <div class="contact-label">Discord</div>
+            <div class="contact-value">augustino127</div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <div class="container">
+      <p>"Motion is my nature, infinity characterizes my potential"</p>
+      <p class="footer-copy">© 2025 Augustino Comlangan. Built with passion.</p>
+    </div>
+  </footer>
+
+  <script src="main.js"></script>
+</body>
+</html>
