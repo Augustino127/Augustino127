@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"> 
   <img src="https://github.com/Augustino127/Augustino127/blob/main/assets/profile-pic.jpg?raw=true" alt="Augustino Comlangan" width="220" style="border-radius:50%; border: 3px solid #6e57e0; box-shadow: 0 0 20px rgba(110,87,224,0.3);">
 </p>
 <h1 align="center">
