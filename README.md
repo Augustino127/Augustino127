@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="https://github.com/Augustino127/Augustino127/blob/main/assets/profile-pic.jpg?raw=true" alt="Augustino Comlangan" width="220" style="border-radius:50%; border: 3px solid #6e57e0; box-shadow: 0 0 20px rgba(110,87,224,0.3);">
+  <img src="[https://github.com/Augustino127/Augustino127/blob/main/assets/profile-pic.jpg?raw=true](https://avatars.githubusercontent.com/u/126991891?v=4&size=256)" alt="Augustino Comlangan" width="220" style="border-radius:50%; border: 3px solid #6e57e0; box-shadow: 0 0 20px rgba(110,87,224,0.3);">
 </p>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Augustino+Comlangan;+Software+Engineer;+Full-Stack+Developer;+Game+Developer;+3D+Designer" />
