@@ -35,7 +35,9 @@ motto: "Le mouvement est ma nature et l'infini caractérise mon potentiel"
 - Crafting **3D assets** that bring ideas to life
 - Solving complex problems with **elegant code**
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 ## 💻 **Technical Arsenal**
 
@@ -61,12 +63,12 @@ motto: "Le mouvement est ma nature et l'infini caractérise mon potentiel"
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
 ### **DevOps, Cloud & CMS**
 <p align="center">
-  
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
@@ -86,7 +88,9 @@ motto: "Le mouvement est ma nature et l'infini caractérise mon potentiel"
   <sub>Also exploring: <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" /></sub>
 </p>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 ## 🎮 **Featured Projects**
 
@@ -142,13 +146,17 @@ const augustino = {
 };
 ```
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 ## 📊 **Contributions**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Augustino127/Augustino127/refs/heads/main/contributions.svg" alt="Contribution Graph" />
 </p>
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 ## 📫 **Let's Connect & Collaborate**
 <p align="center">
