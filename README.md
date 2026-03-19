@@ -61,6 +61,17 @@ motto: "Le mouvement est ma nature et l'infini caractérise mon potentiel"
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
+
+### **DevOps, Cloud & CMS**
+<p align="center">
+  
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Doccano-FF6B6B?style=for-the-badge&logoColor=white" />
 </p>
 
 ### **Design & 3D Tools**
@@ -132,12 +143,11 @@ const augustino = {
 ```
 
 ---
+## 📊 **Contributions**
 
-## 🌟 **Achievements & Recognition**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Augustino127&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://raw.githubusercontent.com/Augustino127/Augustino127/refs/heads/main/contributions.svg" alt="Contribution Graph" />
 </p>
-
 ---
 
 ## 📫 **Let's Connect & Collaborate**
