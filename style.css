@@ -640,6 +640,11 @@ section:nth-child(even) { background: var(--bg-2); }
   gap: 1rem;
   transition: var(--transition);
   text-align: left;
+  min-width: 0;
+}
+.contact-card > div {
+  min-width: 0;
+  flex: 1;
 }
 .contact-card:hover {
   border-color: rgba(110,87,224,0.5);
@@ -673,6 +678,9 @@ section:nth-child(even) { background: var(--bg-2); }
   color: var(--text);
   font-weight: 500;
   margin-top: 2px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 /* ==============================
