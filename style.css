@@ -466,6 +466,33 @@ section:nth-child(even) { background: var(--bg-2); }
   gap: 1.5rem;
 }
 
+.project-card--featured {
+  grid-column: 1 / -1;
+  border-color: rgba(110,87,224,0.4);
+  background: linear-gradient(135deg, rgba(110,87,224,0.08) 0%, var(--card-bg) 60%);
+  position: relative;
+  overflow: hidden;
+}
+.project-card--featured::before {
+  content: 'Featured';
+  position: absolute;
+  top: 16px; right: 16px;
+  background: var(--accent);
+  color: #fff;
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  padding: 3px 10px;
+  border-radius: 100px;
+}
+.project-card--featured .project-desc {
+  max-width: 680px;
+}
+.project-card--featured .project-techs {
+  flex-wrap: wrap;
+}
+
 .project-card {
   background: var(--card-bg);
   border: 1px solid var(--border);
